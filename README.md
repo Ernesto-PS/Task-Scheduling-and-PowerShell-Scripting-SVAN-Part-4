@@ -8,7 +8,7 @@ This project builds on the previously configured savn.local domain network by in
 
 Create and schedule a remote task that launches Notepad on EPS-SP24-S22-2 when domainUser01 logs in.  
 Task Name: StartNotePad  
-Create and schedule a PowerShell script to display a welcome message and timestamp when any user logs into MJL-SP24-S22-1.  
+Create and schedule a PowerShell script to display a welcome message and timestamp when any user logs into EPS-SP24-S22-1.  
 Script Name: get-datemessage.ps1  
 Task Name: displayDateMessage
 
